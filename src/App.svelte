@@ -1,7 +1,7 @@
 <script lang="ts">
-  import Routes from "./routes.svelte";
+  import Main from "./main.svelte";
 </script>
 
 <main>
-  <Routes />
+  <Main />
 </main>
